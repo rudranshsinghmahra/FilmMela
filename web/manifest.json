@@ -1,0 +1,35 @@
+{
+    "name": "film_mela",
+    "short_name": "film_mela",
+    "start_url": ".",
+    "display": "standalone",
+    "background_color": "#0175C2",
+    "theme_color": "#0175C2",
+    "description": "FilmMela is your one-stop destination for a vast collection of Bollywood movies and popular Telugu films dubbed in Hindi. Dive into a world of diverse cinema, from blockbusters to hidden gems, all available at your fingertips. Whether you're in the mood for action, romance, drama, or comedy, FilmMela has something for every movie lover. Enjoy seamless streaming, curated content, and a personalized experience, all in one app.",
+    "orientation": "portrait-primary",
+    "prefer_related_applications": false,
+    "icons": [
+        {
+            "src": "icons/Icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/Icon-maskable-192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "maskable"
+        },
+        {
+            "src": "icons/Icon-maskable-512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "maskable"
+        }
+    ]
+}
